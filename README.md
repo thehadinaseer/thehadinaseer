@@ -67,11 +67,11 @@ I work with clients in:
 ### 📊 GitHub Stats
 
 <p>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="top languages"/>
+<img height="45" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="top languages"/>
 </p>
 
 <p>
-<img align="center" src="https://n8n.io/brandguidelines/logo-white.svg" alt="stats"/>
+<img height="45" align="center" src="https://n8n.io/brandguidelines/logo-white.svg" alt="stats"/>
 </p>
 
 ---
